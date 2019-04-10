@@ -6,8 +6,8 @@ Dataset:  seismic timings (z) measured by geophones dropped into ditches dug alo
 
 Models: 
 - multiple linear regression, 
-- bivariate spline regression with equally spaced knots, 
+- bivariate spline regression with equally spaced knots (b-spline), 
 - thin-plate splines, 
 - generalized additive models with normal families,
-- gamma families. 
+- generalized additive models with gamma families. 
          
