@@ -9,7 +9,12 @@ Models:
 - bivariate spline regression with equally spaced knots (b-spline), 
 - generalized additive models with guassian families,
 - generalized additive models with gamma families,
-- thin-plate splines, 
+- generalized additive models with thin-plate splines, 
 - generalized additive models with tensor-product splines.
  
+ Matrices:
+ Adjusted R, AIC.
+ 
+ Preferred Model:
+ generalized additive models with thin-plate splines. 
          
