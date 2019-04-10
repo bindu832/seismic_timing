@@ -2,7 +2,7 @@
 
 **Group members:** Harpreet Singh, Himabindu Joopally, Wei Tang
 
-**Dataset:**  seismic timings (z) measured by geophones dropped into ditches dug along transects following the (x,y) coordinates. (Central Alberta)
+**Dataset:**  Seismic timings (z) measured by geophones dropped into ditches dug along transects following the (x,y) coordinates. (Central Alberta)
 
 **Models Considered**
 - Multiple linear regression 
