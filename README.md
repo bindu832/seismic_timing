@@ -1,20 +1,20 @@
 # Seismic Timing Project - DATA 583
 
-Group members: Harpreet Singh, Himabindu Joopally, Wei Tang
+**Group members:** Harpreet Singh, Himabindu Joopally, Wei Tang
 
-Dataset:  seismic timings (z) measured by geophones dropped into ditches dug along transects following the (x,y) coordinates.
+**Dataset:**  seismic timings (z) measured by geophones dropped into ditches dug along transects following the (x,y) coordinates. (Central Alberta)
 
-Models: 
-- multiple linear regression, 
-- bivariate spline regression with equally spaced knots (b-spline), 
-- generalized additive models with guassian families,
-- generalized additive models with gamma families,
-- generalized additive models with thin-plate splines, 
-- generalized additive models with tensor-product splines.
+**Models Considered**
+- Multiple linear regression 
+- Bivariate spline regression with equally spaced knots (b-spline)
+- Generalized additive models with guassian family
+- Generalized additive models with gamma family
+- Generalized additive models with thin-plate splines
+- Generalized additive models with tensor-product splines
  
- Matrices:
- Adjusted R, AIC.
+**Metrics:**
+Adjusted R, Deviance, AIC
  
- Preferred Model:
- generalized additive models with thin-plate splines. 
+**Selected Model:**
+Generalized additive models with thin-plate splines 
          
