@@ -4,7 +4,7 @@
 
 **Dataset:**  Seismic timings (z) measured by geophones dropped into ditches dug along transects following the (x,y) coordinates. (Central Alberta)
 
-**Models Considered**
+**Models Considered:**
 - Multiple linear regression 
 - Bivariate spline regression with equally spaced knots (b-spline)
 - Generalized additive models with guassian family
