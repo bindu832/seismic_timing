@@ -13,7 +13,7 @@
 - Generalized additive models with tensor-product splines
  
 **Metrics:**
-Adjusted R, Deviance, AIC
+Adjusted R Squared, Deviance, AIC
  
 **Selected Model:**
 Generalized additive models with thin-plate splines 
