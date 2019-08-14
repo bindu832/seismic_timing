@@ -1,4 +1,4 @@
-# Seismic Timing Project - DATA 583
+# Seismic Timing Project 
 
 **Group members:** Harpreet Singh, Himabindu Joopally, Wei Tang
 
